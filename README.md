@@ -25,5 +25,5 @@ Let’s build, learn, and grow! 💡
 
 #DataAnalytics #Python #PowerBI #ProjectManagement #CloudComputing #Notion #JupyterNotebook #LearningInPublic #DataDriven
 
-#### This project was greatly inspired by datawithbaraa [His Youtube](https://www.youtube.com/@DataWithBaraa), [His website](https://www.datawithbaraa.com/)
-#### Thank you for what you do Baraa Khatib Salkini.
+This project was greatly inspired by datawithbaraa [His Youtube](https://www.youtube.com/@DataWithBaraa), [His website](https://www.datawithbaraa.com/)
+Thank you for your amazing work Baraa Khatib Salkini.
