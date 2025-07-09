@@ -17,6 +17,8 @@
 🔹 **draw.io** – for designing workflows and systems visually
 
 This is a chance to put both technical and project management skills into action, and I’ll be sharing progress and learnings along the way.
+#### This project was greatly inspired by datawithbaraa [His Youtube](https://www.youtube.com/@DataWithBaraa), [His website](https://www.datawithbaraa.com/)
+#### Thank you for what you do Baraa Khatib Salkini.
 
 Here’s a peek at my project planning space on Notion:
 👉 [Notion 🔗](https://www.notion.so/22be4d0c1610805f8b07fc9624b536a7)
