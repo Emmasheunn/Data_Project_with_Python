@@ -2,7 +2,7 @@
 ### Hello 👋 
 **Welcome to my project workflow with Python 🚀**
 
-I’m thrilled to be starting a hands-on project where I’ll be leveraging a suite of powerful tools to bring ideas to life:
+#### As part of my learn-as-you-build initiative, I’m thrilled to be starting a hands-on project where I’ll be leveraging a suite of powerful tools to bring ideas to life:
 
 🔹 **Cloud database** – for real-time data storage and scalability
 
